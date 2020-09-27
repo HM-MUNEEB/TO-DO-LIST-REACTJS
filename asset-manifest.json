@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TO-DO-LIST-REACTJS/static/css/main.764abaaa.chunk.css",
+    "main.css": "/TO-DO-LIST-REACTJS/static/css/main.a9ccaa5b.chunk.css",
     "main.js": "/TO-DO-LIST-REACTJS/static/js/main.f66cc1e7.chunk.js",
     "main.js.map": "/TO-DO-LIST-REACTJS/static/js/main.f66cc1e7.chunk.js.map",
     "runtime-main.js": "/TO-DO-LIST-REACTJS/static/js/runtime-main.9f4eae1b.js",
@@ -8,16 +8,16 @@
     "static/js/2.072290fe.chunk.js": "/TO-DO-LIST-REACTJS/static/js/2.072290fe.chunk.js",
     "static/js/2.072290fe.chunk.js.map": "/TO-DO-LIST-REACTJS/static/js/2.072290fe.chunk.js.map",
     "index.html": "/TO-DO-LIST-REACTJS/index.html",
-    "precache-manifest.5ec779279ba0e02a3e94e51dc1cf66af.js": "/TO-DO-LIST-REACTJS/precache-manifest.5ec779279ba0e02a3e94e51dc1cf66af.js",
+    "precache-manifest.cbc9e1df86133eff18dd819732993599.js": "/TO-DO-LIST-REACTJS/precache-manifest.cbc9e1df86133eff18dd819732993599.js",
     "service-worker.js": "/TO-DO-LIST-REACTJS/service-worker.js",
-    "static/css/main.764abaaa.chunk.css.map": "/TO-DO-LIST-REACTJS/static/css/main.764abaaa.chunk.css.map",
+    "static/css/main.a9ccaa5b.chunk.css.map": "/TO-DO-LIST-REACTJS/static/css/main.a9ccaa5b.chunk.css.map",
     "static/js/2.072290fe.chunk.js.LICENSE.txt": "/TO-DO-LIST-REACTJS/static/js/2.072290fe.chunk.js.LICENSE.txt",
     "static/media/App.css": "/TO-DO-LIST-REACTJS/static/media/skull_image.a5135f2f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9f4eae1b.js",
     "static/js/2.072290fe.chunk.js",
-    "static/css/main.764abaaa.chunk.css",
+    "static/css/main.a9ccaa5b.chunk.css",
     "static/js/main.f66cc1e7.chunk.js"
   ]
 }
