@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af0d43ea86ce4072f33335ee1ae02886",
+    "revision": "65ce033e6c43354bab15a1eea6eb012b",
     "url": "/TO-DO-LIST-REACTJS/index.html"
   },
   {
-    "revision": "5b375e10e3f61f8e5fb0",
-    "url": "/TO-DO-LIST-REACTJS/static/css/main.896e9e02.chunk.css"
+    "revision": "910c1fb1e5284b0a1c8f",
+    "url": "/TO-DO-LIST-REACTJS/static/css/main.89fdcf18.chunk.css"
   },
   {
-    "revision": "71bb2e4b784c84f99930",
-    "url": "/TO-DO-LIST-REACTJS/static/js/2.8b6fa570.chunk.js"
+    "revision": "cf973fac253ffb4fdba4",
+    "url": "/TO-DO-LIST-REACTJS/static/js/2.294de71c.chunk.js"
   },
   {
     "revision": "27bbadeef7d02efcaae5fffc16c6b291",
-    "url": "/TO-DO-LIST-REACTJS/static/js/2.8b6fa570.chunk.js.LICENSE.txt"
+    "url": "/TO-DO-LIST-REACTJS/static/js/2.294de71c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5b375e10e3f61f8e5fb0",
-    "url": "/TO-DO-LIST-REACTJS/static/js/main.3ef7a1ee.chunk.js"
+    "revision": "910c1fb1e5284b0a1c8f",
+    "url": "/TO-DO-LIST-REACTJS/static/js/main.114c544b.chunk.js"
   },
   {
     "revision": "8fba7f3099106def7d45",
